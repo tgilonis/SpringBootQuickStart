@@ -25,3 +25,5 @@ DELETE<br/>
 JPA - Java persistence API; allows ORM (Object - Relation Mapping. Allows the interaction between Java and relational databases)
 
 Spring Data JPA demonstrated in course-api-data
+
+App Execution via mvn on cmd and via pom.xml (jar vs. war), and investigating Actuator (for management metrics)
