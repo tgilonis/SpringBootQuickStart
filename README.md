@@ -21,3 +21,7 @@ PUT<br/>
 
 DELETE<br/>
 /topics/id - Deletes the topic
+
+JPA - Java persistence API; allows ORM (Object - Relation Mapping. Allows the interaction between Java and relational databases)
+
+Spring Data JPA demonstrated in course-api-data
