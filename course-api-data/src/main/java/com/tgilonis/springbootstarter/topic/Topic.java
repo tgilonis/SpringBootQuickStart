@@ -1,7 +1,12 @@
 package com.tgilonis.springbootstarter.topic;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity //JPA now knows to create a table called topic with the variables as columns
 public class Topic
 {
+    @Id //String id is marked at the primary key
     private String id;
     private String name;
     private String description;
