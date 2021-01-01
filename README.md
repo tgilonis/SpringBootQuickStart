@@ -18,3 +18,6 @@ POST<br/>
 
 PUT<br/>
 /topics/id - Updates the topic
+
+DELETE<br/>
+/topics/id - Deletes the topic
