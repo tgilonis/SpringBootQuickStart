@@ -1,4 +1,4 @@
-# SpringBootQuickStart
+# Spring Boot Quick Start
 
 The Rest API to be built:
 
